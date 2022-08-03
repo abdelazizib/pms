@@ -1,0 +1,143 @@
+{
+    "about":{
+        "page-name" :"About",
+        "counter"   :{
+            "tasty-dishes"      : "200",
+            "dishes-served"     : "4,000",
+            "restaurants"       :"10",
+            "happy-customers"   :"10,000"
+        },
+        "slogan":{
+            "title" :"We Make Delicious & Nutritious Food",
+            "button":"Book A Table Now"
+        },
+        "happy-customer":{
+            "header":"Happy Customer",
+            "title" :"Testimonials"
+        }
+    },
+    "chefs":{
+        "page-name"     :"Chefs",
+        "master-chefs"  :{
+            "header":"Our Master Chef",
+            "title":"chef"
+        },
+        "chefs-about"   :{
+            "header"    :"Welcome To Taste.It",
+            "title"     :"About",
+            "content"   :"On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word \"and\" and the Little Blind Text should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+        }
+    },
+    "menu":{
+        "page-name" :"Menu",
+        "our-menu"  :{
+            "header"    :"Our Menu",
+            "title"     :"Specialist"
+        }
+    },
+    "reservation":{
+        "page-name":"Reserevation"
+    },
+    "blog":{
+        "page-name":"Blog",
+        "recent-blog":{
+            "header":"Recent Blog",
+            "title":"Blog"
+        }
+    },
+    "contact":{
+        "page-name":"Contact",
+        "contact-information":{
+            "location"  :"198 West 21th Street, Suite 721 New York NY 10016",
+            "phone"     :"+ 1235 2355 98",
+            "email"     :"info@yoursite.com",
+            "site"      :"yoursite.com"
+        }
+    },
+    "home":{
+        "slider":"Taste.It Reservation",
+        "booking":{
+            "header":"Now Booking",
+            "title":"Private Dinners & Happy Hours"
+        }
+    },
+    "common":{
+        "nav":{
+            "phone"                 :"+00 1234 567",
+            "email"                 :"emailsample@email.com",
+            "work-time"             :"Mon - Fri / 9:00-21:00, Sat - Sun / 10:00-20:00",
+            "social":{
+                "face"           :"#",
+                "twitter"        :"#",
+                "instagram"      :"#",
+                "drible"         :"#"
+            }
+        },
+        "perfect-ingredients":{
+            "header":"Perfect Ingredients",
+            "title":"This is our secrets",
+            "content":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+            "img1":"/content/assets/images/chef/chef-1.webp",
+            "img2":"/content/assets/images/header/wallpaper3.webp",
+            "button":"Learn More"
+        },
+        "footer":{
+            "footer-about":{
+                "content":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove"
+            },
+            "openhours_title":"OPEN HOURS",
+            "open-hours":
+                {
+                "monday"    :"9:00 - 24:00",
+                "tuesday"   :"9:00 - 24:00",
+                "wednesday" :"9:00 - 24:00",
+                "thursday"  :"9:00 - 24:00",
+                "friday"    :"9:00 - 24:00",
+                "saturday"  :"9:00 - 24:00",
+                "sunday"    :"closed"
+            },
+            "instagram":{
+                "img1":"",
+                "img2":"",
+                "img3":"",
+                "img4":"",
+                "img5":"",
+                "img6":""
+            },
+            "newsletter":{
+                "title":"Newsletter",
+                "content":"Far far away, behind the word mountains, far from the countries."
+            },
+            "copyright":"Copyright &copy; <span id='copy-date'> </span>All rights reserved | This template is made with by EraaSoft"
+        },
+        "logo":"Taste.<span>It</span>"
+    },
+    "user":{
+        "profile":{
+            "page-name":"Profile"
+            
+        },
+        "edit_profile":{
+            "page-name":"Edit Profile"
+            
+        },
+        "orders":{
+            "page-name":"Orders History"
+            
+        },
+        "changepassword":{
+            "page-name":"Change Password"
+            
+        }
+    },
+    "cart":{
+        "page-name":"Cart"
+    },
+    "checkout":{
+        "page-name":"Checkout"
+    },
+    "products":{
+        "page-name":"Product"
+    }
+    
+}

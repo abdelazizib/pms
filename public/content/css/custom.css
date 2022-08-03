@@ -1,0 +1,105 @@
+.pagination .page-item.active .page-link {
+    background: #e52b34;
+    color: white;
+    border-color: #e52b34;
+  }
+  .buy_btn{
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    background-color: #e52b34;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+  .add_cart_buy_btn{
+      border: none;
+  }
+  .success-animation .checkmark {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: block;
+    stroke-width: 2;
+    stroke: #4bb71b;
+    stroke-miterlimit: 10;
+    box-shadow: inset 0px 0px 0px #4bb71b;
+    animation: fill 0.4s ease-in-out 0.4s forwards, scale 0.3s ease-in-out 0.9s both;
+
+  }
+  .success-animation .checkmark__circle {
+    stroke-dasharray: 166;
+    stroke-dashoffset: 166;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+    stroke: #4bb71b;
+    fill: #fff;
+    animation: stroke 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+  }
+  .success-animation .checkmark__check {
+    transform-origin: 50% 50%;
+    stroke-dasharray: 48;
+    stroke-dashoffset: 48;
+    animation: stroke 0.3s cubic-bezier(0.65, 0, 0.45, 1) 0.8s forwards;
+  }
+  @keyframes stroke {
+    100% {
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes scale {
+    0%, 100% {
+      transform: none;
+    }
+    50% {
+      transform: scale3d(1.1, 1.1, 1);
+    }
+  }
+  @keyframes fill {
+    100% {
+      box-shadow: inset 0px 0px 0px 30px #4bb71b;
+    }
+  }
+  .section-menu .section-menu__item .section-menu__item-box{
+    margin-bottom: 30px!important;
+    padding: 15px 0;
+    position: relative;
+  }
+  .section-menu .section-menu__item .section-menu__item-box .add_cart_buy_btn {
+    padding: 10px 5px;
+}
+  .section-menu .section-menu__item .section-menu__item-box .section-menu__item__price {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.checkout-page .checkout__list-item {
+  position: relative;
+}
+.remove_item_form {
+  position: absolute;
+  right: 0;
+  top: 5px;
+}
+.remove_item_form .remove_item_btn {
+  background: var(--bs-red);
+  border: none;
+  outline: none;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.remove_item_form .remove_item_btn .delete_icon{
+  
+  font-size: 13px;
+}
